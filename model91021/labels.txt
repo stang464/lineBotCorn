@@ -1,0 +1,4 @@
+blight
+gray spot
+healthy
+rust
